@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jimmy88900
-- an ordinary guy from masaka Uganda 
-A little frontend developer 
-More of a backend developer
-Stackoverflow💪🏾 GitHub💪🏾 lowcode editors 💪🏾
+- an ordinary guy from Uganda 
+A frontend developer + backend 
+Python 🐍 flask 
+Php |laravel |PHP RUNNER | low code apps/platforms and start ups/
+
